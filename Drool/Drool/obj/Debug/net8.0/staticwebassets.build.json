@@ -1,0 +1,4348 @@
+{
+  "Version": 1,
+  "Hash": "mjRE52ZymqyJDnHl+LobnkpY1WEp79v8WeLNmBWysqc=",
+  "Source": "Drool",
+  "BasePath": "_content/Drool",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Drool\\wwwroot",
+      "Source": "Drool",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\bootstrap.css",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zuvuklkj3l",
+      "Integrity": "Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\responsive.css",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "css/responsive#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6o1guu3q1p",
+      "Integrity": "is2/pm3Ywy7W3vy5paw2cEZaoSOCvO7VY07KLdxhBq4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.css",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g8k2zx617b",
+      "Integrity": "EGZypinNSSz9z8TKv355mQYyqkCqhsJ/I5u8G/RXYDk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.css.map",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "css/style.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r8id1h5tqg",
+      "Integrity": "m7I6GSSk3ih2PmtR2YCbd4iwTHX37Odj7dbDG+ggSDA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.scss",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "css/style#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u7pozlgtlx",
+      "Integrity": "qkxJLz69w2hQHFVYB9Qfzz4F16swe9isMkAsxOydu7A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\animal-bg.jpg",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/animal-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k3qpbv7gli",
+      "Integrity": "YIcwYJGZfT5pCosxlP3kWQzLPW77SfIDKZCYZJWxnTQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\animal-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\bird.jpg",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/bird#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xd02j7qfvm",
+      "Integrity": "dT2XWAXHw9FtD3p6U61M1cI7uHA0IOf0+7I5EddTEls=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bird.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\call.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/call#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qj90pvozs3",
+      "Integrity": "qvogOuEAMt/p1FPd6Re5B5bmiJgVv78oSWf1nE3R4vg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\call.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\cat.jpg",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/cat#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "byq7qjywb9",
+      "Integrity": "zdWOjwXomab5e5NGlp9Wto4RBpgsRLN8XbPV47ZGP/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cat.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\client.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/client#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iv8ya3d3tr",
+      "Integrity": "bieQi5Y7dG9QvZUznaSeCuPyI81VzOghdKy/bZsYjgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\client-bg.jpg",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/client-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "umo2yjpub0",
+      "Integrity": "yngt7Krx0mblIsCNs0/Z0dmvMWSiUN6uu3iHVOTaS14=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\dog.jpg",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/dog#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ym2x3dk4hy",
+      "Integrity": "mgJumULVwPYmrsYHOPWkd8jV3gcAbisuFs0/0XHCzWs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dog.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\dog.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/dog#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yqjo3an870",
+      "Integrity": "+jQcMwhxOcoOUEvHS+ASURwElI9pE6gXO6jpoySi5FM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dog.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f1.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/f1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s56u09npzo",
+      "Integrity": "UBEJKHBeYV2UFy3eP2fFUwDfM52ikKsZ2qYArbwndzs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f2.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/f2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eoywyq1ysh",
+      "Integrity": "jhEXUeqnWhEgavyJWiUEXeUjN/Tj2z+bvaZpGikUg3o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f3.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/f3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d4jw626ig6",
+      "Integrity": "M+lGnxYDBxz81oCMV07GkNxwDdGhzyEj5VrIEqpSC7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f3.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\fb.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/fb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48ufbwp0hx",
+      "Integrity": "PL6oNRYnSPXhFWaaXHke6FeNPKsBNbzs56DWz7Quhlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fb.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\fish.jpg",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/fish#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8n1enn8cz",
+      "Integrity": "Edq+702aOEGyuwCQppbOffggb4ijIZfh2UXN6fqoCd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fish.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\heading-img.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/heading-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oigecqam6n",
+      "Integrity": "IJ+0euvaNG8uHIL8hGJssRHFAbzSvGZQnBNvupOshrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\heading-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\hero-bg.jpg",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/hero-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vs9j5b4v2s",
+      "Integrity": "oRZFY8lhxjOePCL9CNBybrVjvBZOBATkIDzSEWqsgQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\hero-bg2.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/hero-bg2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xvcu3k0rsm",
+      "Integrity": "vQ88ZS7uxB8JPhu5RuDw/NXJP8PLjp1vyexHYL9GcH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero-bg2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\instagram.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/instagram#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uktmaoyitq",
+      "Integrity": "wnaKW0V+hmfhewps7SV1o5EmnZOhrBqzqpOkI+aEAeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\instagram.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\link-arrow.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/link-arrow#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "br15jz95xr",
+      "Integrity": "2TjVSEhF5M+hFDmI8Sq3QFLh4vveck+PgxZ+/aHcdko=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\link-arrow.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\linkedin.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/linkedin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cpux5mhmwz",
+      "Integrity": "sOZ3ThJp67M28gcur5GohikCtXcSwVmJVlnvEgI/tp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\linkedin.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\logo.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hb8qgherp7",
+      "Integrity": "nUA6HulBh0UcQS5HgWTc/97bYd6alpdoswXEipiC0Nk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\mail.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/mail#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iy8b1lbla6",
+      "Integrity": "5vj7dr0h79LE3v6r4oHeC0y8+DnKBQ1n3J9DdEp9ick=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mail.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\next.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/next#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7rslolujm7",
+      "Integrity": "LU+1nrfVMcGf5hp1v88kiUuubZszz8N4+P/aLUll+Ig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\next.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\next-angle.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/next-angle#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ff7k61hfot",
+      "Integrity": "m5zEDm6v3N4tKaHHe4EaqNeqE2MCImcF3DzMXoRfOx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\next-angle.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\omega.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/omega#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vowavdcu8i",
+      "Integrity": "ASkjhUNg5jmicZka7aKzGAdzBdHSLUtlcoe3X+lGA6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\omega.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet1.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/pet1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h07v6rg85i",
+      "Integrity": "QUcfe0e6BcgYPbewCWSpoYNB9BdpI3Yp65ITw/M9LLo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pet1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet2.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/pet2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6jmersqghj",
+      "Integrity": "bgt/Mtew/DCzWIphO88BXiyhBhJPX2OZI1Nsnwf+TzA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pet2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet-bg.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/pet-bg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pfkve4btm",
+      "Integrity": "egPssRSme2IMCi9QS20wW57bixBZ9nVPaXDf1bGyiR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pet-bg.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet-img.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/pet-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7xv3rirawx",
+      "Integrity": "W3ff/yjpav1J5Cxu/tB9L44Zd1Otkd4pV53LF5+CQ4E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pet-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\prev.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/prev#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6op8gh1r01",
+      "Integrity": "CggXZBCWtM/GVfTG24Ecs+CjXJwFioM0GL54nRP/02U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\prev.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\prev-angle.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/prev-angle#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7pd3ss0glu",
+      "Integrity": "5QsVXnVjMo6t6cWqN/FWh5zAJmJnScVeaqJ+qGsEgtE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\prev-angle.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\quote.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/quote#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ftyjrkafx5",
+      "Integrity": "/Z2XhTW3y8j85aKj3zLA+P3Da9S4v+TTGAkXqXQlQj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\quote.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\search-icon.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/search-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d801z6nhj4",
+      "Integrity": "bULRFjaiCnxJ0urj7SON5ujIaEpMx5NWGNKKfH1idSE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\search-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\shield.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/shield#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aog22y943d",
+      "Integrity": "6lrW8rVZ10Jf3fNiu2lcs5Pn/DTqErGiv3boXN3/zH4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shield.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\slider-img.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/slider-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "szi2od9483",
+      "Integrity": "WDdoD3n7ir+rt2Fg9nF7XKKGMwImNoXenQURp/ngeH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slider-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\twitter.png",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "images/twitter#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "osr2ogws18",
+      "Integrity": "yK7Kcb+zujOsJZ4WHqfrcENQC2wAvQeQAu+TciPjdXg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\twitter.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\js\\bootstrap.js",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "495lecjm9y",
+      "Integrity": "2Du+WwZGoFQxUzmxupvwnPOKJi3ukQ55APh449DtFgg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "SourceId": "Drool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\",
+      "BasePath": "_content/Drool",
+      "RelativePath": "js/jquery-3.4.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6rpaas0a0",
+      "Integrity": "KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.zuvuklkj3l.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuvuklkj3l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.6o1guu3q1p.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"is2/pm3Ywy7W3vy5paw2cEZaoSOCvO7VY07KLdxhBq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6o1guu3q1p"
+        },
+        {
+          "Name": "label",
+          "Value": "css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-is2/pm3Ywy7W3vy5paw2cEZaoSOCvO7VY07KLdxhBq4="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"is2/pm3Ywy7W3vy5paw2cEZaoSOCvO7VY07KLdxhBq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-is2/pm3Ywy7W3vy5paw2cEZaoSOCvO7VY07KLdxhBq4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EGZypinNSSz9z8TKv355mQYyqkCqhsJ/I5u8G/RXYDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EGZypinNSSz9z8TKv355mQYyqkCqhsJ/I5u8G/RXYDk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.map",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m7I6GSSk3ih2PmtR2YCbd4iwTHX37Odj7dbDG+ggSDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m7I6GSSk3ih2PmtR2YCbd4iwTHX37Odj7dbDG+ggSDA="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.r8id1h5tqg.map",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m7I6GSSk3ih2PmtR2YCbd4iwTHX37Odj7dbDG+ggSDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8id1h5tqg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m7I6GSSk3ih2PmtR2YCbd4iwTHX37Odj7dbDG+ggSDA="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.g8k2zx617b.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EGZypinNSSz9z8TKv355mQYyqkCqhsJ/I5u8G/RXYDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8k2zx617b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EGZypinNSSz9z8TKv355mQYyqkCqhsJ/I5u8G/RXYDk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.scss",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qkxJLz69w2hQHFVYB9Qfzz4F16swe9isMkAsxOydu7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qkxJLz69w2hQHFVYB9Qfzz4F16swe9isMkAsxOydu7A="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.u7pozlgtlx.scss",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qkxJLz69w2hQHFVYB9Qfzz4F16swe9isMkAsxOydu7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7pozlgtlx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qkxJLz69w2hQHFVYB9Qfzz4F16swe9isMkAsxOydu7A="
+        }
+      ]
+    },
+    {
+      "Route": "images/animal-bg.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\animal-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YIcwYJGZfT5pCosxlP3kWQzLPW77SfIDKZCYZJWxnTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YIcwYJGZfT5pCosxlP3kWQzLPW77SfIDKZCYZJWxnTQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/animal-bg.k3qpbv7gli.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\animal-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YIcwYJGZfT5pCosxlP3kWQzLPW77SfIDKZCYZJWxnTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k3qpbv7gli"
+        },
+        {
+          "Name": "label",
+          "Value": "images/animal-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YIcwYJGZfT5pCosxlP3kWQzLPW77SfIDKZCYZJWxnTQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/bird.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\bird.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dT2XWAXHw9FtD3p6U61M1cI7uHA0IOf0+7I5EddTEls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dT2XWAXHw9FtD3p6U61M1cI7uHA0IOf0+7I5EddTEls="
+        }
+      ]
+    },
+    {
+      "Route": "images/bird.xd02j7qfvm.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\bird.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dT2XWAXHw9FtD3p6U61M1cI7uHA0IOf0+7I5EddTEls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xd02j7qfvm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bird.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dT2XWAXHw9FtD3p6U61M1cI7uHA0IOf0+7I5EddTEls="
+        }
+      ]
+    },
+    {
+      "Route": "images/call.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\call.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qvogOuEAMt/p1FPd6Re5B5bmiJgVv78oSWf1nE3R4vg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qvogOuEAMt/p1FPd6Re5B5bmiJgVv78oSWf1nE3R4vg="
+        }
+      ]
+    },
+    {
+      "Route": "images/call.qj90pvozs3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\call.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qvogOuEAMt/p1FPd6Re5B5bmiJgVv78oSWf1nE3R4vg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qj90pvozs3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/call.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qvogOuEAMt/p1FPd6Re5B5bmiJgVv78oSWf1nE3R4vg="
+        }
+      ]
+    },
+    {
+      "Route": "images/cat.byq7qjywb9.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\cat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zdWOjwXomab5e5NGlp9Wto4RBpgsRLN8XbPV47ZGP/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "byq7qjywb9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cat.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zdWOjwXomab5e5NGlp9Wto4RBpgsRLN8XbPV47ZGP/g="
+        }
+      ]
+    },
+    {
+      "Route": "images/cat.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\cat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zdWOjwXomab5e5NGlp9Wto4RBpgsRLN8XbPV47ZGP/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zdWOjwXomab5e5NGlp9Wto4RBpgsRLN8XbPV47ZGP/g="
+        }
+      ]
+    },
+    {
+      "Route": "images/client.iv8ya3d3tr.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\client.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bieQi5Y7dG9QvZUznaSeCuPyI81VzOghdKy/bZsYjgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iv8ya3d3tr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bieQi5Y7dG9QvZUznaSeCuPyI81VzOghdKy/bZsYjgo="
+        }
+      ]
+    },
+    {
+      "Route": "images/client.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\client.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bieQi5Y7dG9QvZUznaSeCuPyI81VzOghdKy/bZsYjgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bieQi5Y7dG9QvZUznaSeCuPyI81VzOghdKy/bZsYjgo="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-bg.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\client-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yngt7Krx0mblIsCNs0/Z0dmvMWSiUN6uu3iHVOTaS14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yngt7Krx0mblIsCNs0/Z0dmvMWSiUN6uu3iHVOTaS14="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-bg.umo2yjpub0.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\client-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yngt7Krx0mblIsCNs0/Z0dmvMWSiUN6uu3iHVOTaS14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "umo2yjpub0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yngt7Krx0mblIsCNs0/Z0dmvMWSiUN6uu3iHVOTaS14="
+        }
+      ]
+    },
+    {
+      "Route": "images/dog.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\dog.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mgJumULVwPYmrsYHOPWkd8jV3gcAbisuFs0/0XHCzWs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mgJumULVwPYmrsYHOPWkd8jV3gcAbisuFs0/0XHCzWs="
+        }
+      ]
+    },
+    {
+      "Route": "images/dog.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\dog.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+jQcMwhxOcoOUEvHS+ASURwElI9pE6gXO6jpoySi5FM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+jQcMwhxOcoOUEvHS+ASURwElI9pE6gXO6jpoySi5FM="
+        }
+      ]
+    },
+    {
+      "Route": "images/dog.ym2x3dk4hy.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\dog.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mgJumULVwPYmrsYHOPWkd8jV3gcAbisuFs0/0XHCzWs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ym2x3dk4hy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dog.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mgJumULVwPYmrsYHOPWkd8jV3gcAbisuFs0/0XHCzWs="
+        }
+      ]
+    },
+    {
+      "Route": "images/dog.yqjo3an870.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\dog.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+jQcMwhxOcoOUEvHS+ASURwElI9pE6gXO6jpoySi5FM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yqjo3an870"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dog.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+jQcMwhxOcoOUEvHS+ASURwElI9pE6gXO6jpoySi5FM="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UBEJKHBeYV2UFy3eP2fFUwDfM52ikKsZ2qYArbwndzs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UBEJKHBeYV2UFy3eP2fFUwDfM52ikKsZ2qYArbwndzs="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1.s56u09npzo.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UBEJKHBeYV2UFy3eP2fFUwDfM52ikKsZ2qYArbwndzs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s56u09npzo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UBEJKHBeYV2UFy3eP2fFUwDfM52ikKsZ2qYArbwndzs="
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.eoywyq1ysh.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhEXUeqnWhEgavyJWiUEXeUjN/Tj2z+bvaZpGikUg3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eoywyq1ysh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jhEXUeqnWhEgavyJWiUEXeUjN/Tj2z+bvaZpGikUg3o="
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhEXUeqnWhEgavyJWiUEXeUjN/Tj2z+bvaZpGikUg3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jhEXUeqnWhEgavyJWiUEXeUjN/Tj2z+bvaZpGikUg3o="
+        }
+      ]
+    },
+    {
+      "Route": "images/f3.d4jw626ig6.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M+lGnxYDBxz81oCMV07GkNxwDdGhzyEj5VrIEqpSC7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4jw626ig6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M+lGnxYDBxz81oCMV07GkNxwDdGhzyEj5VrIEqpSC7k="
+        }
+      ]
+    },
+    {
+      "Route": "images/f3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M+lGnxYDBxz81oCMV07GkNxwDdGhzyEj5VrIEqpSC7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M+lGnxYDBxz81oCMV07GkNxwDdGhzyEj5VrIEqpSC7k="
+        }
+      ]
+    },
+    {
+      "Route": "images/fb.48ufbwp0hx.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\fb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PL6oNRYnSPXhFWaaXHke6FeNPKsBNbzs56DWz7Quhlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48ufbwp0hx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PL6oNRYnSPXhFWaaXHke6FeNPKsBNbzs56DWz7Quhlk="
+        }
+      ]
+    },
+    {
+      "Route": "images/fb.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\fb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PL6oNRYnSPXhFWaaXHke6FeNPKsBNbzs56DWz7Quhlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PL6oNRYnSPXhFWaaXHke6FeNPKsBNbzs56DWz7Quhlk="
+        }
+      ]
+    },
+    {
+      "Route": "images/fish.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\fish.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Edq+702aOEGyuwCQppbOffggb4ijIZfh2UXN6fqoCd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Edq+702aOEGyuwCQppbOffggb4ijIZfh2UXN6fqoCd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/fish.v8n1enn8cz.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\fish.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Edq+702aOEGyuwCQppbOffggb4ijIZfh2UXN6fqoCd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8n1enn8cz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fish.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Edq+702aOEGyuwCQppbOffggb4ijIZfh2UXN6fqoCd0="
+        }
+      ]
+    },
+    {
+      "Route": "images/heading-img.oigecqam6n.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\heading-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJ+0euvaNG8uHIL8hGJssRHFAbzSvGZQnBNvupOshrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oigecqam6n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/heading-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJ+0euvaNG8uHIL8hGJssRHFAbzSvGZQnBNvupOshrs="
+        }
+      ]
+    },
+    {
+      "Route": "images/heading-img.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\heading-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJ+0euvaNG8uHIL8hGJssRHFAbzSvGZQnBNvupOshrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJ+0euvaNG8uHIL8hGJssRHFAbzSvGZQnBNvupOshrs="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero-bg.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oRZFY8lhxjOePCL9CNBybrVjvBZOBATkIDzSEWqsgQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oRZFY8lhxjOePCL9CNBybrVjvBZOBATkIDzSEWqsgQI="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero-bg.vs9j5b4v2s.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oRZFY8lhxjOePCL9CNBybrVjvBZOBATkIDzSEWqsgQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs9j5b4v2s"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oRZFY8lhxjOePCL9CNBybrVjvBZOBATkIDzSEWqsgQI="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero-bg2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\hero-bg2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQ88ZS7uxB8JPhu5RuDw/NXJP8PLjp1vyexHYL9GcH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQ88ZS7uxB8JPhu5RuDw/NXJP8PLjp1vyexHYL9GcH8="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero-bg2.xvcu3k0rsm.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\hero-bg2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQ88ZS7uxB8JPhu5RuDw/NXJP8PLjp1vyexHYL9GcH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xvcu3k0rsm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero-bg2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQ88ZS7uxB8JPhu5RuDw/NXJP8PLjp1vyexHYL9GcH8="
+        }
+      ]
+    },
+    {
+      "Route": "images/instagram.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\instagram.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wnaKW0V+hmfhewps7SV1o5EmnZOhrBqzqpOkI+aEAeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wnaKW0V+hmfhewps7SV1o5EmnZOhrBqzqpOkI+aEAeE="
+        }
+      ]
+    },
+    {
+      "Route": "images/instagram.uktmaoyitq.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\instagram.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wnaKW0V+hmfhewps7SV1o5EmnZOhrBqzqpOkI+aEAeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uktmaoyitq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/instagram.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wnaKW0V+hmfhewps7SV1o5EmnZOhrBqzqpOkI+aEAeE="
+        }
+      ]
+    },
+    {
+      "Route": "images/link-arrow.br15jz95xr.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\link-arrow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2TjVSEhF5M+hFDmI8Sq3QFLh4vveck+PgxZ+/aHcdko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "br15jz95xr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/link-arrow.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2TjVSEhF5M+hFDmI8Sq3QFLh4vveck+PgxZ+/aHcdko="
+        }
+      ]
+    },
+    {
+      "Route": "images/link-arrow.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\link-arrow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2TjVSEhF5M+hFDmI8Sq3QFLh4vveck+PgxZ+/aHcdko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2TjVSEhF5M+hFDmI8Sq3QFLh4vveck+PgxZ+/aHcdko="
+        }
+      ]
+    },
+    {
+      "Route": "images/linkedin.cpux5mhmwz.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sOZ3ThJp67M28gcur5GohikCtXcSwVmJVlnvEgI/tp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cpux5mhmwz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/linkedin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sOZ3ThJp67M28gcur5GohikCtXcSwVmJVlnvEgI/tp8="
+        }
+      ]
+    },
+    {
+      "Route": "images/linkedin.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sOZ3ThJp67M28gcur5GohikCtXcSwVmJVlnvEgI/tp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sOZ3ThJp67M28gcur5GohikCtXcSwVmJVlnvEgI/tp8="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.hb8qgherp7.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nUA6HulBh0UcQS5HgWTc/97bYd6alpdoswXEipiC0Nk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb8qgherp7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nUA6HulBh0UcQS5HgWTc/97bYd6alpdoswXEipiC0Nk="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nUA6HulBh0UcQS5HgWTc/97bYd6alpdoswXEipiC0Nk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nUA6HulBh0UcQS5HgWTc/97bYd6alpdoswXEipiC0Nk="
+        }
+      ]
+    },
+    {
+      "Route": "images/mail.iy8b1lbla6.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\mail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5vj7dr0h79LE3v6r4oHeC0y8+DnKBQ1n3J9DdEp9ick=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iy8b1lbla6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mail.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5vj7dr0h79LE3v6r4oHeC0y8+DnKBQ1n3J9DdEp9ick="
+        }
+      ]
+    },
+    {
+      "Route": "images/mail.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\mail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5vj7dr0h79LE3v6r4oHeC0y8+DnKBQ1n3J9DdEp9ick=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5vj7dr0h79LE3v6r4oHeC0y8+DnKBQ1n3J9DdEp9ick="
+        }
+      ]
+    },
+    {
+      "Route": "images/next.7rslolujm7.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\next.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LU+1nrfVMcGf5hp1v88kiUuubZszz8N4+P/aLUll+Ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rslolujm7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/next.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LU+1nrfVMcGf5hp1v88kiUuubZszz8N4+P/aLUll+Ig="
+        }
+      ]
+    },
+    {
+      "Route": "images/next.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\next.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LU+1nrfVMcGf5hp1v88kiUuubZszz8N4+P/aLUll+Ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LU+1nrfVMcGf5hp1v88kiUuubZszz8N4+P/aLUll+Ig="
+        }
+      ]
+    },
+    {
+      "Route": "images/next-angle.ff7k61hfot.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\next-angle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m5zEDm6v3N4tKaHHe4EaqNeqE2MCImcF3DzMXoRfOx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ff7k61hfot"
+        },
+        {
+          "Name": "label",
+          "Value": "images/next-angle.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m5zEDm6v3N4tKaHHe4EaqNeqE2MCImcF3DzMXoRfOx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/next-angle.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\next-angle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m5zEDm6v3N4tKaHHe4EaqNeqE2MCImcF3DzMXoRfOx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m5zEDm6v3N4tKaHHe4EaqNeqE2MCImcF3DzMXoRfOx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/omega.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\omega.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ASkjhUNg5jmicZka7aKzGAdzBdHSLUtlcoe3X+lGA6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ASkjhUNg5jmicZka7aKzGAdzBdHSLUtlcoe3X+lGA6o="
+        }
+      ]
+    },
+    {
+      "Route": "images/omega.vowavdcu8i.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\omega.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ASkjhUNg5jmicZka7aKzGAdzBdHSLUtlcoe3X+lGA6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vowavdcu8i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/omega.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ASkjhUNg5jmicZka7aKzGAdzBdHSLUtlcoe3X+lGA6o="
+        }
+      ]
+    },
+    {
+      "Route": "images/pet1.h07v6rg85i.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUcfe0e6BcgYPbewCWSpoYNB9BdpI3Yp65ITw/M9LLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h07v6rg85i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pet1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUcfe0e6BcgYPbewCWSpoYNB9BdpI3Yp65ITw/M9LLo="
+        }
+      ]
+    },
+    {
+      "Route": "images/pet1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUcfe0e6BcgYPbewCWSpoYNB9BdpI3Yp65ITw/M9LLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUcfe0e6BcgYPbewCWSpoYNB9BdpI3Yp65ITw/M9LLo="
+        }
+      ]
+    },
+    {
+      "Route": "images/pet2.6jmersqghj.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bgt/Mtew/DCzWIphO88BXiyhBhJPX2OZI1Nsnwf+TzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6jmersqghj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pet2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bgt/Mtew/DCzWIphO88BXiyhBhJPX2OZI1Nsnwf+TzA="
+        }
+      ]
+    },
+    {
+      "Route": "images/pet2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bgt/Mtew/DCzWIphO88BXiyhBhJPX2OZI1Nsnwf+TzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bgt/Mtew/DCzWIphO88BXiyhBhJPX2OZI1Nsnwf+TzA="
+        }
+      ]
+    },
+    {
+      "Route": "images/pet-bg.6pfkve4btm.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet-bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"egPssRSme2IMCi9QS20wW57bixBZ9nVPaXDf1bGyiR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pfkve4btm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pet-bg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-egPssRSme2IMCi9QS20wW57bixBZ9nVPaXDf1bGyiR4="
+        }
+      ]
+    },
+    {
+      "Route": "images/pet-bg.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet-bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"egPssRSme2IMCi9QS20wW57bixBZ9nVPaXDf1bGyiR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-egPssRSme2IMCi9QS20wW57bixBZ9nVPaXDf1bGyiR4="
+        }
+      ]
+    },
+    {
+      "Route": "images/pet-img.7xv3rirawx.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W3ff/yjpav1J5Cxu/tB9L44Zd1Otkd4pV53LF5+CQ4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7xv3rirawx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pet-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W3ff/yjpav1J5Cxu/tB9L44Zd1Otkd4pV53LF5+CQ4E="
+        }
+      ]
+    },
+    {
+      "Route": "images/pet-img.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\pet-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W3ff/yjpav1J5Cxu/tB9L44Zd1Otkd4pV53LF5+CQ4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W3ff/yjpav1J5Cxu/tB9L44Zd1Otkd4pV53LF5+CQ4E="
+        }
+      ]
+    },
+    {
+      "Route": "images/prev.6op8gh1r01.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\prev.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CggXZBCWtM/GVfTG24Ecs+CjXJwFioM0GL54nRP/02U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6op8gh1r01"
+        },
+        {
+          "Name": "label",
+          "Value": "images/prev.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CggXZBCWtM/GVfTG24Ecs+CjXJwFioM0GL54nRP/02U="
+        }
+      ]
+    },
+    {
+      "Route": "images/prev.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\prev.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CggXZBCWtM/GVfTG24Ecs+CjXJwFioM0GL54nRP/02U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CggXZBCWtM/GVfTG24Ecs+CjXJwFioM0GL54nRP/02U="
+        }
+      ]
+    },
+    {
+      "Route": "images/prev-angle.7pd3ss0glu.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\prev-angle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5QsVXnVjMo6t6cWqN/FWh5zAJmJnScVeaqJ+qGsEgtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7pd3ss0glu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/prev-angle.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5QsVXnVjMo6t6cWqN/FWh5zAJmJnScVeaqJ+qGsEgtE="
+        }
+      ]
+    },
+    {
+      "Route": "images/prev-angle.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\prev-angle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5QsVXnVjMo6t6cWqN/FWh5zAJmJnScVeaqJ+qGsEgtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5QsVXnVjMo6t6cWqN/FWh5zAJmJnScVeaqJ+qGsEgtE="
+        }
+      ]
+    },
+    {
+      "Route": "images/quote.ftyjrkafx5.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\quote.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Z2XhTW3y8j85aKj3zLA+P3Da9S4v+TTGAkXqXQlQj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ftyjrkafx5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/quote.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Z2XhTW3y8j85aKj3zLA+P3Da9S4v+TTGAkXqXQlQj0="
+        }
+      ]
+    },
+    {
+      "Route": "images/quote.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\quote.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Z2XhTW3y8j85aKj3zLA+P3Da9S4v+TTGAkXqXQlQj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Z2XhTW3y8j85aKj3zLA+P3Da9S4v+TTGAkXqXQlQj0="
+        }
+      ]
+    },
+    {
+      "Route": "images/search-icon.d801z6nhj4.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\search-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bULRFjaiCnxJ0urj7SON5ujIaEpMx5NWGNKKfH1idSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d801z6nhj4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/search-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bULRFjaiCnxJ0urj7SON5ujIaEpMx5NWGNKKfH1idSE="
+        }
+      ]
+    },
+    {
+      "Route": "images/search-icon.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\search-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bULRFjaiCnxJ0urj7SON5ujIaEpMx5NWGNKKfH1idSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bULRFjaiCnxJ0urj7SON5ujIaEpMx5NWGNKKfH1idSE="
+        }
+      ]
+    },
+    {
+      "Route": "images/shield.aog22y943d.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\shield.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lrW8rVZ10Jf3fNiu2lcs5Pn/DTqErGiv3boXN3/zH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aog22y943d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shield.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lrW8rVZ10Jf3fNiu2lcs5Pn/DTqErGiv3boXN3/zH4="
+        }
+      ]
+    },
+    {
+      "Route": "images/shield.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\shield.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lrW8rVZ10Jf3fNiu2lcs5Pn/DTqErGiv3boXN3/zH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lrW8rVZ10Jf3fNiu2lcs5Pn/DTqErGiv3boXN3/zH4="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\slider-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WDdoD3n7ir+rt2Fg9nF7XKKGMwImNoXenQURp/ngeH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WDdoD3n7ir+rt2Fg9nF7XKKGMwImNoXenQURp/ngeH0="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider-img.szi2od9483.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\slider-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WDdoD3n7ir+rt2Fg9nF7XKKGMwImNoXenQURp/ngeH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "szi2od9483"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WDdoD3n7ir+rt2Fg9nF7XKKGMwImNoXenQURp/ngeH0="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.osr2ogws18.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\twitter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yK7Kcb+zujOsJZ4WHqfrcENQC2wAvQeQAu+TciPjdXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "osr2ogws18"
+        },
+        {
+          "Name": "label",
+          "Value": "images/twitter.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yK7Kcb+zujOsJZ4WHqfrcENQC2wAvQeQAu+TciPjdXg="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\images\\twitter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yK7Kcb+zujOsJZ4WHqfrcENQC2wAvQeQAu+TciPjdXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yK7Kcb+zujOsJZ4WHqfrcENQC2wAvQeQAu+TciPjdXg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.495lecjm9y.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Du+WwZGoFQxUzmxupvwnPOKJi3ukQ55APh449DtFgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "495lecjm9y"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Du+WwZGoFQxUzmxupvwnPOKJi3ukQ55APh449DtFgg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Du+WwZGoFQxUzmxupvwnPOKJi3ukQ55APh449DtFgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:36:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Du+WwZGoFQxUzmxupvwnPOKJi3ukQ55APh449DtFgg="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.d6rpaas0a0.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6rpaas0a0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-3.4.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|c:\\users\\user\\desktop\\droolwebsite\\drool\\drool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6CEEF8-8D95-43B3-90AE-1BCE2ED88B95}|Drool\\Drool.csproj|solutionrelative:drool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_adminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Areas\\admin\\Views\\Shared\\_adminLayout.cshtml",
+              "RelativeDocumentMoniker": "Drool\\Areas\\admin\\Views\\Shared\\_adminLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Areas\\admin\\Views\\Shared\\_adminLayout.cshtml",
+              "RelativeToolTip": "Drool\\Areas\\admin\\Views\\Shared\\_adminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T20:08:28.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Drool\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Drool\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:07:41.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Program.cs",
+              "RelativeDocumentMoniker": "Drool\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Program.cs",
+              "RelativeToolTip": "Drool\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:04:54.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Drool\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "Drool\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T19:53:46.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Drool\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Drool\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T19:51:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Drool\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Drool\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAACABAAAAAAAAAAAAACABAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T19:40:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Drool\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Drool\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:40:27.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Drool\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Drool\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T19:39:38.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Drool\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Drool\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-30T19:41:21.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Drool\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DroolWebsite\\Drool\\Drool\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Drool\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:39:29.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
