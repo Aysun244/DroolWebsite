@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Drool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbc8fd6a51ccbb49d4160fc55cb1f785f25012fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c880ceeabc96ae884a86160a7435caef30d75480")]
 [assembly: System.Reflection.AssemblyProductAttribute("Drool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Drool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
